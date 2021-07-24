@@ -1,0 +1,12 @@
+**Nama** : Naufal Heriansa
+**Nim** : 14116110
+
+**Judul TA** : Purwarupa Sistem *Monitoring* Pengukuran Curah Hujan Tipe *Tipping Bucket* Berbasis IoT (*Internet Of Things*) (Studi Kasus : Bendungan Margatiga) 
+
+**Email Github** : naufalheriansa123@gmail.com
+
+**Abstrak** : Curah hujan merupakan jumlah air hujan yang turun pada suatu daerah dalam waktu tertentu. Curah hujan diukur dalam jumlah harian, bulanan, dan tahunan. Pembentukan ekologi, geografi dan tata guna lahan suatu wilayah sangat ditentukan atau bergantung pada fungsi siklus hidrologi, sehingga curah hujan merupakan kendala sekaligus peluang dalam pengelolaan sumber daya tanah dan air. Pengukuran dilakukan dengan cara mengukur dari gelas ukur curah hujan secara manual, seperti yang dilakukan pada bendungan Margatiga. Namun, pengukuran dengan gelas ukur curah hujan memiliki kekurangan yaitu biaya yang cukup mahal serta pencatatan waktu yang cukup lama. Penggunaan teknologi dapat mengatasi kekurangan tersebut. Contoh penggunaan teknologi tersebut adalah pemanfaatan berkonsep IoT (Internet of Things) penggunaan biaya yang cukup murah serta pencatatan waktu yang cepat yang mana data curah hujan diambil dari sensor serta kemudian dapat dipantau melalui website secara real-time. Pada penelitian ini dilakukan dengan merancang dan membuat perangkat yang dapat mengkur curah hujan secara otomatis dengan cara menyusun beberapa komponen yang dibutuhkan seperti sensor IR distance sebagai pendeteksi halangan, tipping sebagai penampung air, bucket sebagai tempat pengukur, corong sebagai tempat masuk air ke dalam tippping, air hole sebagai lubang pembuang air, panel box sebagai tempat penyimpan Arduino dan LCD, LCD sebagai monitoring melalui perangkat, Arduino sebagai pemroses data sensor, Node MCU ESP8266 sebagai penghubung perangkat dengan website, RTC DS1307 sebagai penunjuk waktu, dan powerbank sebagai sumber daya perangkat. Hasil yang didapat adalah perangkat yang dapat mengukur curah hujan secara otomatis dengan nilai akurasi 94.9 % dan nilai kesalahan rata-rata sebesar 5,2%. Perangkat sistem yang dibuat lebih efisien dari segi harga dengan selisih harga Rp. 310.000
+**Kata Kunci**: Curah hujan, IoT, Sensor IR, Arduino, Efisien
+
+**Pembimbing 1** : Martin C.T. Manullang, S.T., M.T.
+**Pembimbing Utama** : I Wayan Wiprayoga Wisesa, S.Kom., M.Kom.
